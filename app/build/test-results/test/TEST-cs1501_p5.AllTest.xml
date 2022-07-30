@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p5.AllTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-10T15:35:31" hostname="zu-mac.local" time="0.096">
+  <properties/>
+  <testcase name="Mult test 4digitA" classname="cs1501_p5.AllTest" time="0.065"/>
+  <testcase name="Mult test 4digitB" classname="cs1501_p5.AllTest" time="0.004"/>
+  <testcase name="XGCD test 4digitA" classname="cs1501_p5.AllTest" time="0.008"/>
+  <testcase name="XGCD test 4digitB" classname="cs1501_p5.AllTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
